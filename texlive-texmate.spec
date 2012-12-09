@@ -58,3 +58,16 @@ fonts, the package uses the chessfss system.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 2-2
++ Revision: 756742
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 2-1
++ Revision: 719707
+- texlive-texmate
+- texlive-texmate
+- texlive-texmate
+
