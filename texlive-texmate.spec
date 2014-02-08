@@ -6,7 +6,7 @@
 # catalog-version 2
 Name:		texlive-texmate
 Version:	2
-Release:	2
+Release:	3
 Summary:	Comprehensive chess annotation in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texmate
